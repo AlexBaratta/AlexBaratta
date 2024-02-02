@@ -1,3 +1,6 @@
+# 💫 About Me:
+🚀 Current SWE Intern at Altius Strategic Consulting<br>🎓 Junior at Baylor University, studying Computer Science<br>🎨 Passionate about Full-Stack Development and Web Design
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-baratta/) 
@@ -11,4 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Alexbaratta&icon=0&color=0)](https://visitcount.itsvg.in)
-
