@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Current SWE Intern at Altius Strategic Consulting<br>🎓 Junior at Baylor University, studying Computer Science<br>🎨 Passionate about Full-Stack Development and Web Design
+🚀 Current Engineering Intern at Spotify<br>🎓 Junior at Baylor University, studying Computer Science<br>🎨 Passionate about Full-Stack Development and Web Design
 
 
 ## 🌐 Socials:
